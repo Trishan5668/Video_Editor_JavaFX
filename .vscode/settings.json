@@ -1,0 +1,15 @@
+{
+  "java.project.sourcePaths": [
+    "src"
+  ],
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\Program Files\\Java\\jdk-21"
+    }
+  ],
+  "java.project.referencedLibraries": [
+    "d:/Tools/javafx/lib/*.jar",
+    "lib/json-20251224.jar"
+  ]
+}

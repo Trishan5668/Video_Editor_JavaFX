@@ -1,0 +1,9 @@
+openai-whisper
+scenedetect[opencv]
+opencv-python
+numpy
+
+# Optional: local translation enhancement for non-English targets.
+transformers
+sentencepiece
+torch

@@ -1,0 +1,14 @@
+{
+  "projectId": "9e37b968-5969-4bb5-9020-2082a7e7bd0d",
+  "name": "Video Editor Pro Session",
+  "assets": [
+    {"assetId": "asset-196132911900", "sourcePath": "assets/input.mp4", "mediaType": "VIDEO"}
+  ],
+  "activeSequenceId": "d3ed4620-e5bb-461b-8711-464eb7fa3f34",
+  "sequences": [
+    {"sequenceId": "d3ed4620-e5bb-461b-8711-464eb7fa3f34", "name": "Main Sequence", "fps": 30.0, "tracks": [{"type": "VIDEO", "clips": [{"clipId": "8f58a803-9aa9-4bb1-83be-b57b9c29a59f", "sourcePath": "assets/input.mp4", "start": 0.0, "end": 8.0, "timelineStart": 0.0, "positionX": 0.0, "positionY": 0.0, "scale": 1.0, "opacity": 1.0, "zIndex": 0, "text": "", "fontSize": 36}]},{"type": "OVERLAY", "clips": []},{"type": "TEXT", "clips": [{"clipId": "5ed9ea94-ae65-4ac4-b31b-a041a473ebcb", "sourcePath": "__TEXT__", "start": 0.0, "end": 3.0, "timelineStart": 0.0, "positionX": 80.0, "positionY": 80.0, "scale": 1.0, "opacity": 1.0, "zIndex": 150, "text": "No media loaded", "fontSize": 32}]},{"type": "AUDIO", "clips": []}]}
+  ],
+  "tags": {
+    "asset-196132911900": {}
+  }
+}
